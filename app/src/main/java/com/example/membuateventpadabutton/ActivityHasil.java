@@ -4,8 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import android.os.Bundle;
-
 public class ActivityHasil extends AppCompatActivity {
     //Mendeklarasikan variabel dengan tipe data TextView
     TextView txEmail, txPassword;
